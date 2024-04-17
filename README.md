@@ -5,10 +5,9 @@
 2. Navigate to the directory where you want to clone the repository.
 3. Run the following command to clone the repository:
    ```
-   git clone [<repository_url>](https://github.com/yllvar/buy-and-hold-vs-rsi.git)
+   git clone https://github.com/yllvar/buy-and-hold-vs-rsi.git
    ```
-   Replace `<repository_url>` with the URL of the GitHub repository.
-
+   
 ### Step 2: Download Python
 1. Visit the official Python website at [python.org](https://www.python.org/downloads/).
 2. Download the latest version of Python for your operating system.
