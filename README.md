@@ -1,4 +1,4 @@
-# Buy-and-Hold vs. RSI Trading Strategy Comparison
+# Buy-and-Hold vs. RSI Trading Strategy Comparison for Coca-Cola (KO) stock from 2016 to 2021
 
 ### Step 1: Clone the Repository
 1. Open your command line interface (CLI) or terminal.
