@@ -31,5 +31,5 @@ This repository contains a Python script that compares the performance of a buy-
 ### 6. Visualizing the Results
 - Prints the return and risk of both strategies.
 - Plots the cumulative returns of both strategies over time.
-- ![technical-trading-rsi](https://github.com/yllvar/buy-and-hold-vs-rsi/assets/73235926/a4d40991-c6a0-43b5-8989-0a10517d18d9)
+<img width="592" alt="Screenshot 2024-04-17 at 18 29 32" src="https://github.com/yllvar/buy-and-hold-vs-rsi/assets/73235926/a1331b55-52b0-41d0-839e-6ff30990a73e">
 
