@@ -1,6 +1,48 @@
 # Buy-and-Hold vs. RSI Trading Strategy Comparison
 
-## Introduction
+### Step 1: Clone the Repository
+1. Open your command line interface (CLI) or terminal.
+2. Navigate to the directory where you want to clone the repository.
+3. Run the following command to clone the repository:
+   ```
+   git clone <repository_url>
+   ```
+   Replace `<repository_url>` with the URL of the GitHub repository.
+
+### Step 2: Download Python
+1. Visit the official Python website at [python.org](https://www.python.org/downloads/).
+2. Download the latest version of Python for your operating system.
+3. Follow the installation instructions provided on the website.
+
+### Step 3: Set up Jupyter Notebook
+1. Open your command line interface (CLI) or terminal.
+2. Install Jupyter Notebook by running the following command:
+   ```
+   pip install jupyterlab
+   ```
+3. Once installed, start Jupyter Notebook by running the following command:
+   ```
+   jupyter notebook
+   ```
+4. This will open a new tab in your web browser with the Jupyter Notebook interface.
+
+### Step 4: Install Required Dependencies and Libraries
+1. Navigate to the directory where you cloned the repository.
+2. Open a new terminal or command prompt in that directory.
+3. Run the following command to install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+   This command will install all the necessary packages listed in the `requirements.txt` file.
+
+### Step 5: Run the Code on Jupyter Notebook
+1. In the Jupyter Notebook interface, navigate to the directory where you cloned the repository.
+2. Click on the Python script file (e.g., `buy_and_hold_vs_rsi.ipynb`) to open it.
+3. Follow the instructions provided within the notebook to execute the code cells.
+4. To run the code cells, click on each cell and press Shift + Enter or click the "Run" button in the toolbar.
+5. The code will download the historical stock data, perform analysis, and visualize the results within the notebook.
+
+# Introduction
 This repository contains a Python script that compares the performance of a buy-and-hold strategy against a Relative Strength Index (RSI) based trading strategy using historical stock data from Yahoo Finance. The script analyzes the performance of these two strategies on Coca-Cola (KO) stock from 2016 to 2021, providing insights into their returns and risks.
 
 ## Usage
