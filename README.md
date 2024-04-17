@@ -5,7 +5,7 @@
 2. Navigate to the directory where you want to clone the repository.
 3. Run the following command to clone the repository:
    ```
-   git clone <repository_url>
+   git clone [<repository_url>](https://github.com/yllvar/buy-and-hold-vs-rsi.git)
    ```
    Replace `<repository_url>` with the URL of the GitHub repository.
 
